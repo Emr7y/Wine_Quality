@@ -45,8 +45,6 @@ streamlit run w_qlty.py
 
 💡 Alle Eingaben sind mit **Tooltip-Erklärungen** versehen, um auch Nicht-Experten eine Einschätzung zu ermöglichen.
 
-## ✅ Beispielausgabe
-![Beispiel](https://huggingface.co/spaces/emr7y/Wein_Qualitat/resolve/main/example.png)
 
 ---
 ### 👤 Autor
